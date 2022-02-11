@@ -1,2 +1,11 @@
 # Stranger Connect Telegram Bot
-It is a telegram bot to connect two strangers.
+
+## How to Run
+First add `PYTHONPATH` enviornement variable in repository root directory by running:
+```
+export PYTHONPATH=${PWD}
+```
+Then run:
+```python
+python src/main.py
+```
