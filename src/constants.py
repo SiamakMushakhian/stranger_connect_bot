@@ -3,8 +3,8 @@ from types import SimpleNamespace # Create a namespace to change the dictionary 
 
 
 KEYS = SimpleNamespace(**dict(
-    random_connect = 'Connect',
-    settings = 'Settings'
+    random_connect = ':bust_in_silhouette: Connect to user',
+    settings = ':gear: Settings'
 ))
 
 KEYBOARDS = SimpleNamespace(**dict(
